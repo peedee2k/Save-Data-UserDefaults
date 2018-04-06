@@ -12,6 +12,6 @@ struct MyModel {
     let pageTitle: String
     let url: String
 }
-
+// This is my Model
 
 
